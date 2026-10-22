@@ -1,5 +1,5 @@
 import React from 'react'
-import assets from '../../../agency-ai/src/assets/assets'
+import assets from "../assets/assets";
 import { motion } from "motion/react";
 
 const Hero = () => {

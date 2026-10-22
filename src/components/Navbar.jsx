@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import assets from "../../../agency-ai/src/assets/assets";
+import assets from "../assets/assets";
 import ThemeToggleBtn from "./ThemeToggleBtn";
 import { motion } from "motion/react";
 
